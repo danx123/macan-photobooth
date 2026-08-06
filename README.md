@@ -4,12 +4,11 @@ A desktop photobooth application built with **PySide6**, part of the **Macan Ang
 
 > **Note:** The source code shared in this repository is a **reference / base project**. It's meant as a working starting point to build on and adapt — not a final, locked-down release — so expect ongoing changes, refactors, and feature additions on top of it.
 ---
-<img width="1024" height="1536" alt="macan photobooth" src="https://github.com/user-attachments/assets/53f64d02-ec64-4cf5-83d8-0f94ab4dbf02" />
----
-
 ## Screenshot
 
 <img width="1024" height="1497" alt="github_macan photobooth v2 1 0" src="https://github.com/user-attachments/assets/34ba82e3-7aed-4277-b3d7-bd87f315a807" />
+
+---
 
 
 
